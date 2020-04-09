@@ -1,0 +1,16 @@
+/Library/Java/JavaVirtualMachines/jdk-13.0.2.jdk/Contents/Home/bin/java "-javaagent:/Applications/IntelliJ IDEA CE.app/Contents/lib/idea_rt.jar=51499:/Applications/IntelliJ IDEA CE.app/Contents/bin" -Dfile.encoding=UTF-8 -classpath /Users/scottbing/Documents/NMHU/BSSD5650_Patterns/Hwk11.1/SB_StatePattern11.1/out/production/untitled104 com.company.Main
+Quarter inserted
+Crank Turned
+You can't eject, you haven't inserted a quarter yet
+Your turn, but there are no gumballs
+YOU'RE A WINNER! - Horray!!! - You got two gumballs for your quarter
+A gumball comes rolling out of the slot….
+A gumball comes rolling out of the slot….
+Oops, out of gumballs!
+No gumballs available
+You never entered a quarter to eject
+No gumballs available
+The machine is sold out of gumballs
+No gumballs dispensed
+
+Process finished with exit code 0
